@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLOps/Learning/Day-1/mlruns/788929741924511481/0da3c5e6d0614cdca5fdd9cd0539e617/artifacts
+end_time: 1747048073317
+entry_point_name: ''
+experiment_id: '788929741924511481'
+lifecycle_stage: active
+run_id: 0da3c5e6d0614cdca5fdd9cd0539e617
+run_name: salty-ray-482
+run_uuid: 0da3c5e6d0614cdca5fdd9cd0539e617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747048073287
+status: 4
+tags: []
+user_id: Armghan

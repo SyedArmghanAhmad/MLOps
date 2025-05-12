@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLOps/Learning/Day-1/mlruns/788929741924511481/7f8bf905fd8449a18b90d38227f5f697/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '788929741924511481'
+lifecycle_stage: active
+run_id: 7f8bf905fd8449a18b90d38227f5f697
+run_name: adaptable-skink-904
+run_uuid: 7f8bf905fd8449a18b90d38227f5f697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747048095000
+status: 1
+tags: []
+user_id: Armghan
